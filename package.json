@@ -1,0 +1,16 @@
+{
+  "name": "despertar-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.10.3"
+  },
+  "overrides": {
+    "nuxi": "3.10.1"
+  }
+}
