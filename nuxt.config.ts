@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     port: 8080
   },
   app: {
-    baseURL: process.env.NODE_ENV === 'production' ? '/deckdopai/' : '/',
+    baseURL: process.env.NODE_ENV === 'production' ? '/landing-page-deckdopai/' : '/',
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
